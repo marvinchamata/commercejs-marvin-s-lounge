@@ -6,7 +6,7 @@ const Footer = () => (
       <div className="row">
         <div className="col-12 col-sm-6 col-md-4">
           <p className="font-family-secondary font-size-display1 mb-4">
-            Commerce.js
+            marvin's lounge
           </p>
           <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
             <div className="pr-5">
@@ -102,37 +102,13 @@ const Footer = () => (
       <div className="bg-brand300">
         <div className="custom-container d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div className="pt-5 pb-0 pt-md-4 pb-md-4 d-flex align-items-center flex-wrap justify-content-center">
-            <a
-              href="https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-demo-store"
-              className="font-color-brand font-size-caption text-uppercase text-center"
-              target="_blank"
-            >
-              Deploy to Netlify
-            </a>
+           
             <p className="px-2 font-color-brand font-size-caption">-</p>
-            <a
-              href="https://github.com/chec/commercejs-nextjs-demo-store"
-              className="font-color-brand font-size-caption text-uppercase text-center"
-              target="_blank"
-            >
-              Clone in GitHub
-            </a>
-            <p className="px-2 font-color-brand font-size-caption">-</p>
-            <a
-              href="https://github.com/chec/commercejs-nextjs-demo-store"
-              className="font-color-brand font-size-caption text-uppercase text-center"
-              target="_blank"
-            >
-              Contribute
-            </a>
-          </div>
+         
+                  </div>
           <div className="font-color-brand font-size-caption py-4 text-right">
-          <a
-              href="https://commercejs.com/"
-              className="font-color-brand font-size-caption text-uppercase text-center"
-              target="_blank"
-            >
-              &copy; { new Date().getFullYear() } Chec/Commerce.js.
+         
+  &copy; { new Date().getFullYear() } marvin's lounge .
             </a>
           </div>
         </div>
