@@ -109,7 +109,7 @@ const Footer = () => (
           <div className="font-color-brand font-size-caption py-4 text-right">
          
   &copy; { new Date().getFullYear() } marvin's lounge .
-            </a>
+     
           </div>
         </div>
       </div>
