@@ -18,9 +18,10 @@ const params = {
   }
 };
 const images = [
-  '/images/Strong-Woman-Quote-Animate-Square2.jpg',
-  '/images/home-1.jpg',
-  '/images/home-2.jpg',
+ 
+  '/images/perfume.jpg',
+  '/images/top-view-open-woman-bag.jpg',
+  '/images/man-s-accessories-wooden-surface.jpg',
   '/images/home-3.jpg',
   '/images/home-4.jpg',
 ];
