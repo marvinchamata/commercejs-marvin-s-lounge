@@ -21,7 +21,8 @@ const images = [
  
   '/images/depositphotos_86364550-stock-photo-men-fashion-men-accessories-still.jpg',
   '/images/top-view-open-woman-bag.jpg',
-  '/images/man-s-accessories-wooden-surface.jpg',
+  '/images/man-s-accessories-wooden-surface.jpg', 
+  '/images/accessories.jpg',
   '/images/depositphotos_152750570-stock-photo-mens-accessories-shoes-with-watch.jpg(2)',
   '/images/home-4.jpg',
 ];
